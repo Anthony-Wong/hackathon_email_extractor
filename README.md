@@ -1,4 +1,4 @@
 # hackathon_email_extractor
-- Download zip and extract, 
+- Download main folder
 - set chrome extensions to delevoper mode
-- load unpacked and select dir 
+- load unpacked and select folder 
