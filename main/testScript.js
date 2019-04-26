@@ -5,7 +5,7 @@ var out = "";
 
 while (thisHeading = headings.iterateNext()) {
     var position = thisHeading.parentElement.cells[3].innerHTML;
-    var name = thisHeading.parentElement.cells[4].innerHTML;
+    var name = thisHeading.parentElement.cells[5].innerHTML;
 
     out = out + position + "\n" + name + "\n" + "Score : " + "\n" + "Remarks : " + "\n\n";
 }
