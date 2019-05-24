@@ -1,4 +1,4 @@
-var headings = document.evaluate("//td//td[contains(., 'https://ide.c9.io/candacefuller')]", document, null, XPathResult.ANY_TYPE, null );
+var headings = document.evaluate("//td//td[contains(., 'console.aws.amazon.com/')]", document, null, XPathResult.ANY_TYPE, null );
 
 var thisHeading;
 var out = "";
